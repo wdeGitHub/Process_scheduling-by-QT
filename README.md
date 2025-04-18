@@ -1,5 +1,7 @@
 本项目在qt6与opencv库用c++编写
-用于直观展示各种进程调度算法，将算法可视化。包含了先来先服务，短进程优先等。。。
+
+用于直观展示各种进程调度算法，将算法可视化。包含了先来先服务，短进程优先等---
+
 开源于github:https://github.com/wdeGitHub/Process_scheduling-by-QT
 左上角master中是源代码，release中是打包好的可执行文件
 
